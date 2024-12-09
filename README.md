@@ -12,6 +12,8 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 <!-- Your screenshot should go here -->
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
+<img src="screenshot-dark.png" alt="Screenshot (dark)"/><br/>
+
 ### Automatic Installation
 1. Run the following command: `kitten themes`
 2. Search for `Eldritch` and press `Enter`
@@ -19,7 +21,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 4. Reload kitty
 
 ### Manual Installation
-1. Download the `Eldritch.conf` from this repository.
+1. Download the `Eldritch.conf` or `Eldritch-dark.conf` from this repository.
 2. Place in your kitty config directory, usually `~/.config/kitty/`.
-3. Add `include eldritch.conf` to your `kitty.conf` file.
+3. Add `include eldritch.conf` or `include eldritch-dark.conf` to your `kitty.conf` file.
 4. Reload kitty
